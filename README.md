@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # Hello, I'm Erick Ayara! 👋
 🌟 Software Developer | 🎨 Designer | 🌍 Tech Enthusiast  
 💻 Currently working on eBanking System  
-✨ Skills: JavaScript | Python | React | Next.js | Vue.js | Laravel | Angular | Flutter | Figma |
+✨ Skills: JavaScript | Python | React | Next.js | Vue.js | Laravel | Angular | Flutter | Figma |   
 📫 Contact me at: erick@ovasis.co.ke(mailto:erick@ovasis.co.ke)  
-🌐 Visit my portfolio: [dribbble/ayara12]([(https://dribbble.com/ayara12)])
-🌐 Visit my website: [ovasis.co.ke](https://ovasis.co.ke)
+🌐 Visit my portfolio: [dribbble/ayara12]([(https://dribbble.com/ayara12)])   
+🌐 Visit my website: [ovasis.co.ke](https://ovasis.co.ke)   
 
