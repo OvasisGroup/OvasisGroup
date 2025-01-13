@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Erick Ayara! 👋
+## Hello, I'm Erick Ayara! 👋
 🌟 Software Developer | 🎨 Designer | 🌍 Tech Enthusiast  
 💻 Currently working on eBanking System  
 ✨ Skills: JavaScript | Python | React | Next.js | Vue.js | Laravel | Angular | Flutter | Figma |   
