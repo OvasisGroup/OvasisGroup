@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 📫 Contact me at: erick@ovasis.co.ke(mailto:erick@ovasis.co.ke)  
 🌐 Visit my portfolio: [ovasis.co.ke](https://ovasis.co.ke)
 
-![GitHub Followers](https://img.shields.io/github/followers/username?style=social)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
+![GitHub Followers](https://img.shields.io/github/followers/OvasisGroup?style=social)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?OvasisGroup=OvasisGroup&layout=compact)
