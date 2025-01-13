@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 ✨ Skills: JavaScript | Python | React | Next.js | Vue.js | Laravel | Angular | Flutter | Figma 
 📫 Contact me at: erick@ovasis.co.ke(mailto:erick@ovasis.co.ke)  
 🌐 Visit my portfolio: [ovasis.co.ke](https://ovasis.co.ke)
-
-![GitHub Followers](https://img.shields.io/github/followers/OvasisGroup?style=social)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?OvasisGroup=OvasisGroup&layout=compact)
