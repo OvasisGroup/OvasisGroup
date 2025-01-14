@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 💻 Currently working on eBanking System  
 ✨ Skills: HTML5 | CSS3 | Javascript | Python | React | Next.js | Vue.js | Laravel | Angular | Flutter | Figma |   
 📫 Contacts: [erick@ovasis.co.ke](mailto:erick@ovasis.co.ke)  
-🌐 Portfolio: [dribbble/ayara12](https://dribbble.com/ayara12)   
-🌐 Website: [ovasis.co.ke](https://ovasis.co.ke)   
+🌈 Portfolio: [dribbble/ayara12](https://dribbble.com/ayara12)   
+🌍 Website: [ovasis.co.ke](https://ovasis.co.ke)   
 
