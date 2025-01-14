@@ -1,4 +1,4 @@
-
+![Banner](https://github.com/OvasisGroup/OvasisGroup/blob/main/assets/ovgroup.png)
 
 <!--
 **OvasisGroup/OvasisGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
