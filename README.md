@@ -65,6 +65,10 @@ In addition to development and design, I excel in writing clear, structured, and
 
 ---
 
+![Udemy Certification](https://img.shields.io/badge/Udemy-Course_Name-02C39A?style=flat-square&logo=Udemy&logoColor=white)
+
+---
+
 ### 🌍 Let's Connect!
 
 📫 Contacts: [erick@ovasis.co.ke](mailto:erick@ovasis.co.ke)  
