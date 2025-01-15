@@ -63,11 +63,14 @@ In addition to development and design, I excel in writing clear, structured, and
 #### Tools:
 - **Git** | **Docker** | **PostgreSQL** | **Figma** | **Photoshop** | **Illustrator**  | **Indesign** | **MySql**
 
----
+--
 
-![Udemy Certification](https://img.shields.io/badge/Next.js15&React-TheCompleteGuide-UC-57e5ab09-da0e-485b-b943-2b8b94ffda8c?style=flat-square&logo=Udemy&logoColor=white)
+## 📜 Certifications
 
----
+- [![Udemy Certification](https://img.shields.io/badge/Udemy-React_Development-02C39A?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-XXXXXXX)
+- [![Udemy Certification](https://img.shields.io/badge/Udemy-JavaScript_Mastery-FCA121?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-YYYYYYY)
+
+--
 
 ### 🌍 Let's Connect!
 
