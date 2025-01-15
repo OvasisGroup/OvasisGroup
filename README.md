@@ -39,16 +39,29 @@ Welcome to my GitHub profile! I'm a **Frontend Engineer**, **Graphic Designer**,
 
 ---
 
+### 📚 Technical Documentation
+
+In addition to development and design, I excel in writing clear, structured, and comprehensive technical documentation. Here’s how I approach it:
+
+#### 📋 **Documentation Features:**
+1. **Project Overview**: Providing clear descriptions of project goals, features, and demos.
+2. **Installation Guides**: Step-by-step instructions to set up projects for new contributors or clients.
+3. **API Documentation**: Detailed endpoint information, request/response examples, and usage guidelines.
+4. **Contributing Guidelines**: Simple instructions to encourage collaborative development.
+5. **Codebase Structure**: Explaining folder organization for ease of navigation.
+
+---
+
 ### 🚀 Technologies I Work With
 
 #### Languages:
-- **JavaScript** | **TypeScript** | **Python** | **PHP**
+- **JavaScript** | **TypeScript** | **Python** | **PHP** | **HTML**
 
 #### Libraries & Frameworks:
-- **React** | **Next.js** | **Laravel** | **Django** | **Flutter**
+- **React** | **Next.js** | **Laravel** | **Django** | **Flutter** | **Swift**
 
 #### Tools:
-- **Git** | **Docker** | **PostgreSQL** | **Figma** | **Photoshop**
+- **Git** | **Docker** | **PostgreSQL** | **Figma** | **Photoshop** | **Illustrator**  | **Indesign** | **MySql**
 
 ---
 
