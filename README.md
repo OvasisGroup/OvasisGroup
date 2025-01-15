@@ -65,8 +65,7 @@ In addition to development and design, I excel in writing clear, structured, and
 
 ---
 
-![Udemy Certification](https://img.shields.io/badge/Next.js 15 & React - The Complete Guide
--UC-57e5ab09-da0e-485b-b943-2b8b94ffda8c?style=flat-square&logo=Udemy&logoColor=white)
+![Udemy Certification](https://img.shields.io/badge/Next.js15&React-TheCompleteGuide-UC-57e5ab09-da0e-485b-b943-2b8b94ffda8c?style=flat-square&logo=Udemy&logoColor=white)
 
 ---
 
