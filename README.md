@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 📫 Contacts: [erick@ovasis.co.ke](mailto:erick@ovasis.co.ke)  
 🌈 Portfolio: [dribbble/ayara12](https://dribbble.com/ayara12)   
 🌍 Website: [ovasis.co.ke](https://ovasis.co.ke)   
+Linkedin: [erick-ayara](https://www.linkedin.com/in/erick-ayara/)   
 
