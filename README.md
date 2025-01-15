@@ -72,8 +72,7 @@ In addition to development and design, I excel in writing clear, structured, and
 🌍 Website: [ovasis.co.ke](https://ovasis.co.ke)   
 💼 Linkedin: [erick-ayara](https://www.linkedin.com/in/erick-ayara/)   
 
-✨ **Let’s build something amazing together!** ✨
-
+---
 
 ## 📈 GitHub Stats
 
@@ -82,3 +81,5 @@ In addition to development and design, I excel in writing clear, structured, and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OvasisGroup&layout=compact&theme=radical)
 
 ---
+
+✨ **Let’s build something amazing together!** ✨
