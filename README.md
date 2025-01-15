@@ -67,7 +67,7 @@ In addition to development and design, I excel in writing clear, structured, and
 
 ## 📜 Certifications
 
-- [![Udemy Certification](https://img.shields.io/badge/Udemy-React_Development-02C39A?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-57e5ab09-da0e-485b-b943-2b8b94ffda8c/)
+- [![Udemy Certification](https://img.shields.io/badge/Udemy-Next-JS_Development-02C39A?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-57e5ab09-da0e-485b-b943-2b8b94ffda8c/)
 - [![Udemy Certification](https://img.shields.io/badge/Udemy-JavaScript_Mastery-FCA121?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-YYYYYYY)
 
 --
